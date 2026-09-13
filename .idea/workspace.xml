@@ -4,12 +4,39 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6cedcac-da61-4df0-9517-122b1790a44c" name="Changes" comment="Tehtäviä">
-      <change afterPath="$PROJECT_DIR$/3/Teht_3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/Teht_3.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/Teht_3.4.py" afterDir="false" />
+    <list default="true" id="d6cedcac-da61-4df0-9517-122b1790a44c" name="Changes" comment="8 osion tehtävät">
+      <change afterPath="$PROJECT_DIR$/noppa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/Teht_3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/Teht_3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Teht_2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-2/Teht_2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Teht_2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-2/Teht_2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Teht_2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-2/Teht_2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Teht_2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-2/Teht_2.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Teht_2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-2/Teht_2.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Teht_2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-2/Teht_2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Teht_3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-3/Teht_3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Teht_3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-3/Teht_3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Teht_3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-3/Teht_3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Teht_3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-3/Teht_3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Teht_4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-4/Teht_4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Teht_4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-4/Teht_4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Teht_4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-4/Teht_4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Teht_4.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-4/Teht_4.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Teht_4.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-4/Teht_4.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/Teht_5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-5/Teht_5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/Teht_5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-5/Teht_5.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/Teht_5.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-5/Teht_5.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/Teht_5.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-5/Teht_5.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/Teht_6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-6/Teht_6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/Teht_6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-6/Teht_6.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/Teht_6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-6/Teht_6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/Teht_6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-6/Teht_6.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/Teht_6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-6/Teht_6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/Teht_6.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-6/Teht_6.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7/Teht_7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-7/Teht_7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7/Teht_7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-7/Teht_7.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8/Teht_8.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-8/Teht_8.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8/Teht_8.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli-8/Teht_8.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,55 +53,153 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Banaani223"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Banaani223&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Banaani223/Laksyprojekti.git",
-    "accountId": "ebebd66c-782a-4bf6-9adf-62be681cb1aa"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Banaani223/Laksyprojekti.git&quot;,
+    &quot;accountId&quot;: &quot;ebebd66c-782a-4bf6-9adf-62be681cb1aa&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000039440649159" />
+      <entry key="MS500" value="1.1479753082343715" />
+      <entry key="S2" value="2.085746160405448" />
+      <entry key="S5" value="3.4644907573814607" />
+      <entry key="S10" value="5.507809068331467" />
+      <entry key="S30" value="11.333193853862559" />
+      <entry key="S60" value="16.238636352110106" />
+      <entry key="M2" value="20.955780794924426" />
+      <entry key="M5" value="25.540466631073258" />
+      <entry key="M10" value="27.584442271658148" />
+      <entry key="M15" value="28.344002848577624" />
+      <entry key="M30" value="29.250133727858373" />
+      <entry key="H1" value="33.11608860768431" />
+      <entry key="H2" value="57.91120607413714" />
+      <entry key="H4" value="151.28767543551905" />
+      <entry key="D1" value="687.842486748717" />
+      <entry key="W1" value="959.2098771713513" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="4.843483979287973E-195" />
+      <entry key="S60" value="6.959514976381722E-98" />
+      <entry key="M2" value="2.6388893883016896E-49" />
+      <entry key="M5" value="3.8476502236750756E-20" />
+      <entry key="M10" value="2.3049880017777017E-10" />
+      <entry key="M15" value="4.4648076848045974E-7" />
+      <entry key="M30" value="9.138650781691886E-4" />
+      <entry key="H1" value="0.043059399932608045" />
+      <entry key="H2" value="0.3525773515031497" />
+      <entry key="H4" value="1.4136371349097003" />
+      <entry key="D1" value="6.871762959659283" />
+      <entry key="W1" value="9.465847169083323" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9202231965653825" />
+      <entry key="MS500" value="1.1285437860057341" />
+      <entry key="S2" value="2.0767661454583166" />
+      <entry key="S5" value="3.4586648858945344" />
+      <entry key="S10" value="5.503223456132664" />
+      <entry key="S30" value="11.33001499479403" />
+      <entry key="S60" value="16.23630610185931" />
+      <entry key="M2" value="20.954242431402502" />
+      <entry key="M5" value="25.539701176883057" />
+      <entry key="M10" value="27.584025464947356" />
+      <entry key="M15" value="28.343716888890345" />
+      <entry key="M30" value="29.250880724038044" />
+      <entry key="H1" value="33.15872596084766" />
+      <entry key="H2" value="58.262280547416005" />
+      <entry key="H4" value="152.69782405509264" />
+      <entry key="D1" value="694.7107480979766" />
+      <entry key="W1" value="968.6750044364437" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3I5IcSa5WdwYrMIoYjCofXJOwwD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Ovimies.executor": "Run",
-    "Python.Teht_2.1.executor": "Run",
-    "Python.Teht_2.2.executor": "Run",
-    "Python.Teht_2.3.executor": "Run",
-    "Python.Teht_2.5.executor": "Run",
-    "Python.Teht_2.6.executor": "Run",
-    "Python.Teht_3.2.executor": "Run",
-    "Python.Teht_3.3.executor": "Run",
-    "Python.Teht_3.4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/Python/Läksyprojekti",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": ""
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Ovimies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_2.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_2.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_3.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_4.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_5.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_5.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_6.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_6.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_6.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_6.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_7.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_8.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teht_8.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.noppa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/Python/Läksyprojekti&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\Python\Läksyprojekti\" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Python\Läksyprojekti\4" />
+      <recent name="C:\Users\user\Desktop\Python\Läksyprojekti\" />
       <recent name="C:\Users\user\Desktop\Python\Läksyprojekti\3" />
       <recent name="C:\Users\user\Desktop\Python\Läksyprojekti\2" />
     </key>
@@ -93,7 +218,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1787048084281</updated>
-      <workItem from="1787048085281" duration="4830000" />
+      <workItem from="1787048085281" duration="5135000" />
+      <workItem from="1787555255256" duration="3395000" />
+      <workItem from="1787721612334" duration="616000" />
+      <workItem from="1787900505641" duration="1288000" />
+      <workItem from="1787935564388" duration="2387000" />
+      <workItem from="1788025727565" duration="1230000" />
+      <workItem from="1788083508384" duration="7786000" />
+      <workItem from="1788425044787" duration="6445000" />
+      <workItem from="1788454628072" duration="3604000" />
+      <workItem from="1788598829336" duration="4564000" />
+      <workItem from="1788762755910" duration="4438000" />
+      <workItem from="1788883002538" duration="1648000" />
+      <workItem from="1789033839205" duration="654000" />
+      <workItem from="1789059310657" duration="744000" />
+      <workItem from="1789107953820" duration="3086000" />
+      <workItem from="1789309711789" duration="5636000" />
     </task>
     <task id="LOCAL−00001" summary="Tehtäviä">
       <option name="closed" value="true" />
@@ -102,7 +242,42 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1787053143709</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="lisää tehtäviä">
+      <option name="closed" value="true" />
+      <created>1787054259864</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1787054259864</updated>
+    </task>
+    <task id="LOCAL−00003" summary="4 osion tehtävät">
+      <option name="closed" value="true" />
+      <created>1788083606007</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1788083606007</updated>
+    </task>
+    <task id="LOCAL−00004" summary="4 osion tehtävät">
+      <option name="closed" value="true" />
+      <created>1788457327133</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1788457327133</updated>
+    </task>
+    <task id="LOCAL−00005" summary="8 osion tehtävät">
+      <option name="closed" value="true" />
+      <created>1789059324729</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1789059324729</updated>
+    </task>
+    <task id="LOCAL−00006" summary="8 osion tehtävät">
+      <option name="closed" value="true" />
+      <created>1789108223424</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1789108223424</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,17 +285,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tehtäviä" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tehtäviä" />
+    <MESSAGE value="lisää tehtäviä" />
+    <MESSAGE value="4 osion tehtävät" />
+    <MESSAGE value="4 osion loput tehtävät" />
+    <MESSAGE value="8 osion tehtävät" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 osion tehtävät" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_3_2.coverage" NAME="Teht_3.2 Coverage Results" MODIFIED="1787053794087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
     <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_2_2.coverage" NAME="Teht_2.2 Coverage Results" MODIFIED="1787048886908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_3_4.coverage" NAME="Teht_3.4 Coverage Results" MODIFIED="1787049933239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_2_6.coverage" NAME="Teht_2.6 Coverage Results" MODIFIED="1787050612528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_2_3.coverage" NAME="Teht_2.3 Coverage Results" MODIFIED="1787049537235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_2_1.coverage" NAME="Teht_2.1 Coverage Results" MODIFIED="1787049347499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_6_2.coverage" NAME="Teht_6.2 Coverage Results" MODIFIED="1788432946826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_6_3.coverage" NAME="Teht_6.3 Coverage Results" MODIFIED="1788433729705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_5_1.coverage" NAME="Teht_5.1 Coverage Results" MODIFIED="1788026929585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_4_3.coverage" NAME="Teht_4.3 Coverage Results" MODIFIED="1787938024101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_7_1.coverage" NAME="Teht_7.1 Coverage Results" MODIFIED="1788762793561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_5_2.coverage" NAME="Teht_5.2 Coverage Results" MODIFIED="1788108313804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_5_4.coverage" NAME="Teht_5.4 Coverage Results" MODIFIED="1788110885584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_6_5.coverage" NAME="Teht_6.5 Coverage Results" MODIFIED="1788455485114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_8_1.coverage" NAME="Teht_8.1 Coverage Results" MODIFIED="1789108263896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8" />
     <SUITE FILE_PATH="coverage/Läksyprojekti$Ovimies.coverage" NAME="Ovimies Coverage Results" MODIFIED="1787051636035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_2_5.coverage" NAME="Teht_2.5 Coverage Results" MODIFIED="1787050342062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_3_3.coverage" NAME="Teht_3.3 Coverage Results" MODIFIED="1787054109521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_4_1.coverage" NAME="Teht_4.1 Coverage Results" MODIFIED="1787901989057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_5_3.coverage" NAME="Teht_5.3 Coverage Results" MODIFIED="1788109522546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$noppa.coverage" NAME="noppa Coverage Results" MODIFIED="1787556237051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$testi.coverage" NAME="testi Coverage Results" MODIFIED="1789311841902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_6_4.coverage" NAME="Teht_6.4 Coverage Results" MODIFIED="1788434675769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_7_2.coverage" NAME="Teht_7.2 Coverage Results" MODIFIED="1788620640389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_2_6.coverage" NAME="Teht_2.6 Coverage Results" MODIFIED="1787050612528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_3_4.coverage" NAME="Teht_3.4 Coverage Results" MODIFIED="1787054338244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_4_2.coverage" NAME="Teht_4.2 Coverage Results" MODIFIED="1787937232643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_2_3.coverage" NAME="Teht_2.3 Coverage Results" MODIFIED="1787049537235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_3_2.coverage" NAME="Teht_3.2 Coverage Results" MODIFIED="1787053794087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_6_6.coverage" NAME="Teht_6.6 Coverage Results" MODIFIED="1788457301631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_8_2.coverage" NAME="Teht_8.2 Coverage Results" MODIFIED="1789311379703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_2_1.coverage" NAME="Teht_2.1 Coverage Results" MODIFIED="1787049347499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_4_5.coverage" NAME="Teht_4.5 Coverage Results" MODIFIED="1788025849475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4" />
+    <SUITE FILE_PATH="coverage/Läksyprojekti$Teht_6_1.coverage" NAME="Teht_6.1 Coverage Results" MODIFIED="1789324500709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
   </component>
 </project>
